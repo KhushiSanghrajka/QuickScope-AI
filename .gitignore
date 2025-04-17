@@ -1,0 +1,8 @@
+*.env
+.env
+.venv
+.gradio
+.vscode
+__pycache__
+*.pyc
+logs
